@@ -1,14 +1,14 @@
 # Banking-system
 
 
-**Sparks Foundation Internship Project** :Banking System
+**Sparks Foundation Internship Project** : Banking System.
+
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
 
-**Stack used  **
+**Stack used **
+
 --> Front-end : HTML, CSS, Bootstrap & Javascript
-
 --> Back-end : PHP
-
 --> Database : MySQL
 
 Database contains two Tables- Users Table & Transaction Table
@@ -18,9 +18,6 @@ Transaction table records all transfers happened along with their time.
 
 **Flow** : Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 The website has the following specification -
-
-
-**HOSTING PALTFORM** --> 000Webhost
 
 **Website** Link:https://project-the-spark-foundation.000webhostapp.com/BankingSystem/index.php
 **Contact**:https://www.linkedin.com/in/chirag-sharma-30/
